@@ -1,1 +1,3 @@
 # This is a simple password Generator That generates password using the contents we select to be in it of length we select varrying from length min 8 to max 30 
+
+![2](https://user-images.githubusercontent.com/79747022/147783651-57a624a1-d9f1-4d6c-9bcb-fd632afc758d.jpeg)
